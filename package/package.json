@@ -1,6 +1,6 @@
 {
-  "name": "drop-down-template",
-  "version": "1.0.0",
+  "name": "@justinmoyle/drop-down-template",
+  "version": "1.0.2",
   "description": "drop down template",
   "homepage": "https://github.com/justinmoyle/drop-down-template#readme",
   "bugs": {
@@ -11,10 +11,13 @@
     "url": "git+https://github.com/justinmoyle/drop-down-template.git"
   },
   "license": "ISC",
-  "author": "",
+  "author": "Justin Moyle",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "email-verification": "^0.4.6"
   }
 }
